@@ -16,7 +16,6 @@ class StarkAgent():
         if not self.api_key:
             raise ValueError("GOOGLE_API_KEY not found in environment")
         
-        # Use google_genai provider with correct model name
         self.llm = LLM(
                 model="gemini/gemini-2.0-flash",
                 api_key=self.api_key,
