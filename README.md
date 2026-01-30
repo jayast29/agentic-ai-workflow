@@ -54,7 +54,7 @@ This mirrors real **enterprise agent orchestration** and workflow automation use
 - **Google ADK** – Agent Development Kit for building conversational agents (conceptual architecture)  
 - **LangChain / LangGraph** – Framework for building LLM applications with memory and control flow  
 - **CrewAI** – Multi-agent orchestration framework  
-- **Vertex AI/Goggle Gemini** – Large Language Model for agent reasoning  
+- **Vertex AI/Google Gemini** – Large Language Model for agent reasoning  
 - **uv** – Fast Python package and environment manager  
 
 ---
