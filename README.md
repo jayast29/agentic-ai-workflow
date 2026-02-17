@@ -19,7 +19,7 @@ To demonstrate how multiple AI agents, built using different agent frameworks, c
 - Coordinate tasks across agents with isolated state
 - Negotiate constraints (availability, conflicts)
 - Use tools to make decisions
-- Reduce manual coordination effort by approximately **50%**
+- Reduce manual coordination efforts
 
 ---
 
